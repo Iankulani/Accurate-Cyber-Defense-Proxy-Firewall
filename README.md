@@ -18,12 +18,13 @@ By combining strong access control, intelligent traffic monitoring, and instant 
 the Accurate-Cyber-Defense-Proxy-Firewall empowers organizations to detect and respond to threats before they escalate—ensuring maximum uptime, 
 data integrity, and network resilience in an increasingly hostile cyber landscape.
 
-**How to clone the repo**
-
+## How to clone the repo
+```bash
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Proxy-Firewall.git
 
 cd Accurate-Cyber-Defense-Proxy-Firewall
-
-**How to run**
-
+```
+## How to run
+```bash
 python3 Accurate-Cyber-Defense-Proxy-Firewall.py
+```
